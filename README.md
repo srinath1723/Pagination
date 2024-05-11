@@ -14,7 +14,7 @@
 
        * Include the test suite in your html file which is given below.
        
-       * Use the below URL for [pagination data]("https://gist.github.com/rvsp/add40254aa126f045837fa5b51f47f1f") and sample design.
+       * Use the below URL for [pagination data](" https://gist.github.com/rvsp/add40254aa126f045837fa5b51f47f1f") and sample design.
 
  
 
